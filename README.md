@@ -1,4 +1,7 @@
 # LOS-CUATRO-ELEMENTOS
 
 
-Proyecto final, Desarrollo de Software
+###Proyecto final.
+
+####Control de Inventario con codigo de barras.
+####Desarrollo de Software
